@@ -3,7 +3,7 @@
     {
         "id": "POKEMON_TYPE_BUG",
         "name": "Bug",
-        "color": "#A8B820",
+        "color": "#6D7815",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
@@ -240,7 +240,7 @@
     {
         "id": "POKEMON_TYPE_ELECTRIC",
         "name": "Electric",
-        "color": "#F7D02C",
+        "color": "#A1871F",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
@@ -556,7 +556,7 @@
     {
         "id": "POKEMON_TYPE_FLYING",
         "name": "Flying",
-        "color": "#A98FF3",
+        "color": "#6D5E9C",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
@@ -793,7 +793,7 @@
     {
         "id": "POKEMON_TYPE_GROUND",
         "name": "Ground",
-        "color": "#E2BF65",
+        "color": "#927D44",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
@@ -872,7 +872,7 @@
     {
         "id": "POKEMON_TYPE_ICE",
         "name": "Ice",
-        "color": "#96D9D6",
+        "color": "#638D8D",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
@@ -951,7 +951,7 @@
     {
         "id": "POKEMON_TYPE_NORMAL",
         "name": "Normal",
-        "color": "#A8A77A",
+        "color": "#6D6D4E",
         "damage": [
             {
                 "id": "POKEMON_TYPE_NORMAL",
